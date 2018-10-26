@@ -2,15 +2,6 @@ body {
     background: "#F4F4F4";
 }
 
-.foto-perfil {
-    text-align: center;
-    width: 290px;
-    height: 350px;
-    border-radius: 70%;
-    margin-top: 50px;
-    border: 2px solid white;
-}
-
 p.titulo-nome {
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
@@ -34,9 +25,14 @@ p.subtitulo {
     color: blue;    
 }
 
-ul.itens{
+ul.itens {
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12;
     color: black; 
+}
+
+img {
+    border-radius: 15%;
+    width: 200px;
 }
