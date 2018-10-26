@@ -10,3 +10,33 @@ body {
     margin-top: 50px;
     border: 2px solid white;
 }
+
+p.titulo-nome {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16;
+    font-weight: bold;
+    color: blue;    
+}
+
+p.info-pessoais {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: black; 
+}
+
+p.subtitulo {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    font-weight: bold;
+    color: blue;    
+}
+
+ul.itens{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: black; 
+}
